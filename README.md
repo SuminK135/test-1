@@ -41,4 +41,4 @@
 [링크 텍스트]https://github.com/SuminK135
 [구글](https://www.google.com/, "홈페이지")
 
-![이미지 연습]https://blog.kakaocdn.net/dn/dVK24A/btqFgJkzvVI/ikY9V3EkELFK41ZF6kePB0/img.png
+![이미지 연습](https://blog.kakaocdn.net/dn/dVK24A/btqFgJkzvVI/ikY9V3EkELFK41ZF6kePB0/img.png)
