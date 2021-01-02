@@ -46,7 +46,7 @@
 
 ![이미지 연습](https://blog.kakaocdn.net/dn/dVK24A/btqFgJkzvVI/ikY9V3EkELFK41ZF6kePB0/img.png)
 
-![폴더](./images/KakaoTalk_20210102_185220163_03.jpg)
+![폴더](./images/8b17850211c2b59eea89d.png)
 
 
 #### 참고문헌
