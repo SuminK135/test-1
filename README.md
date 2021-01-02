@@ -47,3 +47,8 @@
 ![이미지 연습](https://blog.kakaocdn.net/dn/dVK24A/btqFgJkzvVI/ikY9V3EkELFK41ZF6kePB0/img.png)
 
 ![폴더](./images/KakaoTalk_20210102_185220163_03.jpg)
+
+
+#### 참고문헌
+---
+- 이고잉,고경희 저,「Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문」, 이지스퍼블리싱, 2019.
